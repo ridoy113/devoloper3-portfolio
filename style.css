@@ -1,0 +1,31 @@
+body{
+    font-family: 'Berkshire Swash', cursive;
+font-family: 'Josefin Slab', serif;
+margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: rgb(236, 76, 17);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(pink, violet);
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+}
